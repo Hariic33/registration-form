@@ -6,84 +6,14 @@
       "author": "typicode"
     },
     {
-      "first_name": "Haralds",
-      "last_name": "Makbets",
-      "email": "hmakbets@gmail.com",
+      "first_name": "John",
+      "last_name": "Doe",
+      "email": "johndoe@gmail.com",
       "password": "sdffdfhf",
       "gender": "male",
       "country": "BB",
       "terms": "on",
       "id": 2
-    },
-    {
-      "first_name": "Haralds",
-      "last_name": "Makbets",
-      "email": "hmakbets@gmail.com",
-      "password": "asdfgh",
-      "gender": "male",
-      "country": "BE",
-      "terms": "on",
-      "id": 3
-    },
-    {
-      "first_name": "Haralds",
-      "last_name": "Makbets",
-      "email": "hmakbets@gmail.com",
-      "password": "asgddashash",
-      "gender": "male",
-      "country": "BB",
-      "terms": "on",
-      "id": 4
-    },
-    {
-      "first_name": "Haralds",
-      "last_name": "Makbets",
-      "email": "hmakbets@gmail.com",
-      "password": "asgddashash",
-      "gender": "male",
-      "country": "BB",
-      "terms": "on",
-      "id": 5
-    },
-    {
-      "first_name": "Haralds",
-      "last_name": "Makbets",
-      "email": "hmakbets@gmail.com",
-      "password": "asfdfghjkjh",
-      "gender": "male",
-      "country": "BB",
-      "terms": "on",
-      "id": 6
-    },
-    {
-      "first_name": "Haralds",
-      "last_name": "Makbets",
-      "email": "hmakbets@gmail.com",
-      "password": "asfdfghjkjh",
-      "gender": "male",
-      "country": "BB",
-      "terms": "on",
-      "id": 7
-    },
-    {
-      "first_name": "Haralds",
-      "last_name": "Makbets",
-      "email": "hmakbets@gmail.com",
-      "password": "********",
-      "gender": "male",
-      "country": "BY",
-      "terms": "on",
-      "id": 8
-    },
-    {
-      "first_name": "Haralds",
-      "last_name": "Makbets",
-      "email": "hmakbets@gmail.com",
-      "password": "********",
-      "gender": "male",
-      "country": "BY",
-      "terms": "on",
-      "id": 9
     }
   ],
   "comments": [
